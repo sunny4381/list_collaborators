@@ -7,6 +7,7 @@ GEM
       multipart-post (>= 1.2, < 3)
       ruby2_keywords
     multipart-post (2.1.1)
+    netrc (0.11.0)
     octokit (4.19.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -20,6 +21,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  netrc
   octokit
 
 BUNDLED WITH
